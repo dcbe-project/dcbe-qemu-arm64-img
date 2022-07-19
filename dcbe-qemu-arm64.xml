@@ -47,9 +47,9 @@ Pin-Priority: 910
 		<images>
 			<msdoshd>
 				<name>sdcard.img</name>
-				<size>150MiB</size>
+				<size>1020MiB</size>
 					<partition>
-						<size>40MiB</size>
+						<size>100MiB</size>
 						<label>boot</label>
 						<bootable />
 					</partition>
